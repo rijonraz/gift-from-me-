@@ -1,0 +1,5 @@
+{
+  "name": "Emon Clicker",
+  "description": "A simple, interactive web page that displays a message and changes it upon user interaction anywhere on the screen.",
+  "requestFramePermissions": []
+}
